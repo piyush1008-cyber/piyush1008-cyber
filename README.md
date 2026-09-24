@@ -49,12 +49,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyush1008-cyber&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="piyush1008-cyber's GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=piyush1008-cyber&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="piyush1008-cyber's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyush1008-cyber&theme=tokyonight&hide_border=true" alt="piyush1008-cyber's Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush1008-cyber&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=piyush1008-cyber&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <br>
@@ -63,18 +63,18 @@
 
 <p align="center">
   <a href="https://github.com/piyush1008-cyber/jarvis-voice-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush1008-cyber&repo=jarvis-voice-assistant&theme=tokyonight&show_icons=true" alt="Jarvis Voice Assistant" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=piyush1008-cyber&repo=jarvis-voice-assistant&theme=tokyonight&show_icons=true" alt="Jarvis Voice Assistant" />
   </a>
   <a href="https://github.com/piyush1008-cyber/CyberShield">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush1008-cyber&repo=CyberShield&theme=tokyonight&show_icons=true" alt="CyberShield" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=piyush1008-cyber&repo=CyberShield&theme=tokyonight&show_icons=true" alt="CyberShield" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/piyush1008-cyber/crop-recommendation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush1008-cyber&repo=crop-recommendation&theme=tokyonight&show_icons=true" alt="Crop Recommendation" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=piyush1008-cyber&repo=crop-recommendation&theme=tokyonight&show_icons=true" alt="Crop Recommendation" />
   </a>
   <a href="https://github.com/piyush1008-cyber/piyush1008-cyber-studentapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyush1008-cyber&repo=piyush1008-cyber-studentapp&theme=tokyonight&show_icons=true" alt="Student App" />
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=piyush1008-cyber&repo=piyush1008-cyber-studentapp&theme=tokyonight&show_icons=true" alt="Student App" />
   </a>
 </p>
 
