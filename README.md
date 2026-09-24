@@ -1,6 +1,6 @@
 <!-- Animated typing header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Peeyoosh+Kangle!+%F0%9F%91%8B;B.Tech+CSE+Student;AI%2FML+%26+Cybersecurity+Enthusiast;Full+Stack+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Peeyoosh+Kangle!+%F0%9F%91%8B;B.Tech+CSE+Student;AI%2FML+%26+Data+Engineering+Enthusiast;Full+Stack+Web+Developer" alt="Typing SVG" />
 </h1>
 
 <div align="center">
@@ -15,8 +15,8 @@
 
 ### 👨‍💻 About Me
 - 🎓 I'm currently studying B.Tech in Computer Science and Engineering.
-- 🔭 I’m passionate about **Artificial Intelligence, Machine Learning, Cybersecurity, and Web Development**.
-- 🌱 I’m currently learning advanced topics in **Machine Learning and Spring Boot**.
+- 🔭 I’m passionate about **Artificial Intelligence, Machine Learning, Data Engineering, and Web Development**.
+- 🌱 I’m currently learning advanced topics in **Machine Learning and Data Engineering**.
 - 💡 I love building projects that solve real-world problems.
 - 📫 How to reach me: [piyushkangle@gmail.com](mailto:piyushkangle@gmail.com)
 - 📝 Check out my portfolio: [piyush1008-cyber.github.io/portfolio](https://piyush1008-cyber.github.io/portfolio/)
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,flask,spring,git,github,linux,vscode,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,flask,postgres,docker,aws,git,github,linux,vscode,mysql&theme=dark" />
   </a>
 </p>
 <p align="center">
@@ -65,16 +65,13 @@
   <a href="https://github.com/piyush1008-cyber/jarvis-voice-assistant">
     <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=piyush1008-cyber&repo=jarvis-voice-assistant&theme=tokyonight&show_icons=true" alt="Jarvis Voice Assistant" />
   </a>
-  <a href="https://github.com/piyush1008-cyber/CyberShield">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=piyush1008-cyber&repo=CyberShield&theme=tokyonight&show_icons=true" alt="CyberShield" />
+  <a href="https://github.com/piyush1008-cyber/portfolio">
+    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=piyush1008-cyber&repo=portfolio&theme=tokyonight&show_icons=true" alt="Portfolio" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/piyush1008-cyber/crop-recommendation">
     <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=piyush1008-cyber&repo=crop-recommendation&theme=tokyonight&show_icons=true" alt="Crop Recommendation" />
-  </a>
-  <a href="https://github.com/piyush1008-cyber/piyush1008-cyber-studentapp">
-    <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=piyush1008-cyber&repo=piyush1008-cyber-studentapp&theme=tokyonight&show_icons=true" alt="Student App" />
   </a>
 </p>
 
